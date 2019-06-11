@@ -1,4 +1,4 @@
-module bitbucket.org/asinus/manadin_bonus/mongo
+module github.com/eu-ga/mongo
 
 go 1.12
 
